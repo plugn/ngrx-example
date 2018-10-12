@@ -1,4 +1,4 @@
-# Ngrx Example
+# Ngrx Example (forked)
 
 This project is a simple example of how to use [NgRx](https://github.com/ngrx/platform).
 This project also was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
